@@ -17,7 +17,14 @@ This is **not** an MCP server. For live tool calls in the IDE, use [`notifycx-mc
 
 ### Claude Code / Codex / other agents
 
-Point the agent at `SKILL.md` (or paste its body into your agent instructions). Keep the OpenAPI link: https://notify.cx/openapi.yaml
+- [install-claude-code.md](./install-claude-code.md)
+- [install-codex.md](./install-codex.md)
+
+Point the agent at `SKILL.md` (single source of facts). OpenAPI: https://notify.cx/openapi.yaml
+
+### Evals
+
+When reviewing agent output, use [evals.md](./evals.md).
 
 ## Related
 
